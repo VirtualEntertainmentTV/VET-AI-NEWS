@@ -5,7 +5,7 @@ import NewsCards from "./components/NewsCards/NewsCards";
 import useStyles from "./styles.js";
 
 const alanKey =
-  "b3525433183d854bc8723828d42d44832e956eca572e1d8b807a3e2338fdd0dc/stage";
+  "";
 
 const App = () => {
   const [newsArticles, setNewsArticles] = useState([]);
